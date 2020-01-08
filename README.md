@@ -1,4 +1,4 @@
-# note_firebase
+# Flutter Delivery Firebase
 
 A new Flutter application.
 
