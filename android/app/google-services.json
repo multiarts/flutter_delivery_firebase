@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "287057621892",
+    "firebase_url": "https://lojavirtualflutter-840cd.firebaseio.com",
+    "project_id": "lojavirtualflutter-840cd",
+    "storage_bucket": "lojavirtualflutter-840cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287057621892:android:01d51c24777065a8",
+        "android_client_info": {
+          "package_name": "com.jmellodev.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287057621892-ef2tjk7aestl932fkunqdu7r069aapds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAnXAYrLa41Jm5PRPIS7ToEmBOUlPRlI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287057621892:android:a3ca8825c2577092",
+        "android_client_info": {
+          "package_name": "com.jmellodev.notefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287057621892-ef2tjk7aestl932fkunqdu7r069aapds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAnXAYrLa41Jm5PRPIS7ToEmBOUlPRlI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
